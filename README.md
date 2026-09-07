@@ -1,112 +1,62 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Harshit Maurya</h1>
 
-# 👋 Hi, I'm Harshit Maurya
+<h3 align="center">
+🚀 Full-Stack Developer | MERN Stack | AI Enthusiast | Open Source Learner
+</h3>
 
-### 💻 Full-Stack Developer | MERN Stack | AI Enthusiast | Problem Solver
-
-<p>
+<p align="center">
   <a href="https://github.com/harshit9934">
-    <img src="https://img.shields.io/github/followers/harshit9934?label=Followers&style=for-the-badge&logo=github" alt="GitHub Followers"/>
+    <img src="https://komarev.com/ghpvc/?username=harshit9934&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/harshit9934?tab=followers">
+    <img src="https://img.shields.io/github/followers/harshit9934?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
   </a>
   <a href="https://github.com/harshit9934?tab=repositories">
-    <img src="https://img.shields.io/github/stars/harshit9934?label=Stars&style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  </a>
-  <a href="mailto:harsitmourya80@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
+    <img src="https://img.shields.io/github/stars/harshit9934?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
   </a>
 </p>
 
-<p>
-  <img src="https://komarev.com/ghpvc/?username=harshit9934&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-</p>
-
-</div>
-
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Harshit Maurya**, a passionate **Full-Stack Developer** from India 🇮🇳 who enjoys building real-world web applications and exploring AI-powered solutions.
+```javascript
+const harshit = {
+    name: "Harshit Maurya",
+    location: "India 🇮🇳",
+    role: "Full-Stack Developer",
+    currentFocus: "Building scalable web applications & AI-powered products",
+    learning: ["Next.js", "Advanced React", "AI/ML"],
+    stack: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
+    interests: ["Web Development", "AI", "Open Source", "Problem Solving"],
+    funFact: "I am also a content creator 🎥"
+};
+```
 
-* 💻 **Full-Stack Developer** focused on modern web technologies
-* ⚛️ Working with **React.js, Node.js, Express.js & MongoDB**
-* 🚀 Currently learning **Next.js** and improving my backend architecture skills
-* 🤖 Interested in **AI-powered applications and intelligent products**
-* 🛠️ Love building **real-world projects** instead of just following tutorials
-* 🌱 Continuously learning new technologies and improving my development skills
-* 🤝 Open to collaborating on interesting **Web Development & AI projects**
-* 🎯 Goal: Build scalable, useful and production-ready applications
-
-### 💡 Tech I Work With
-
-**Frontend:** React.js • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
-
-**Backend:** Node.js • Express.js • REST APIs
-
-**Databases:** MongoDB • MySQL • PostgreSQL
-
-**Tools:** Git • GitHub • Docker • Postman • Figma
-
----
-
-## 🚀 What I'm Currently Doing
-
-* 🔭 Building and improving **Full-Stack Web Applications**
-* 🌱 Currently learning **Next.js**
+* 🔭 Currently working on **Airbnb Clone**
+* 🌱 Currently learning **Next.js & advanced full-stack development**
 * 🤖 Exploring **AI-powered applications**
-* 💡 Building real-world projects using the **MERN Stack**
-* 🤝 Open to collaboration on interesting Web & AI projects
-* 🎯 Improving my problem-solving and development skills
+* 👯 Looking to collaborate on **interesting web & AI projects**
+* 💬 Ask me about **React, Node.js, Express, MongoDB & JavaScript**
+* 🎯 Goal: **Build useful products and become a better software engineer**
+* ⚡ Fun fact: **I am a content creator**
 
 ---
 
-# 🛠️ Tech Stack
-
-### 💻 Languages
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
-</p>
-
-### ⚛️ Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
-</p>
-
-### 🧠 Backend & Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
-
-### ☁️ Tools & Technologies
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,aws,vscode" />
-</p>
-
----
-
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%">
 
-### 🏠 Final Airbnb
+### 🏠 Airbnb Clone
 
-A full-stack Airbnb-inspired accommodation platform built with Node.js, Express, MongoDB and EJS.
+A full-stack Airbnb-inspired rental platform built with Node.js, Express, MongoDB and EJS.
 
 **Tech:** Node.js • Express • MongoDB • EJS
 
 <a href="https://github.com/harshit9934/FinalAirbnb">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://finalairbnb-8.onrender.com/">
-  <img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
@@ -115,206 +65,193 @@ A full-stack Airbnb-inspired accommodation platform built with Node.js, Express,
 
 ### 🤖 SmartPick AI
 
-AI-powered product recommendation project designed to help users discover suitable products.
+AI-powered product recommendation project focused on helping users discover suitable products.
 
-**Tech:** React • JavaScript • AI
+**Tech:** React • AI • JavaScript
 
 <a href="https://github.com/harshit9934/Smartpick_AI_ProductRrcommend">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://smartpickai.netlify.app/">
-  <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
-
 </tr>
 
 <tr>
-
-<td width="50%">
-
-### 🤖 AI Time Machine
-
-An AI-focused project exploring intelligent application experiences.
-
-**Tech:** JavaScript • AI • Web Development
-
-<a href="https://github.com/harshit9934/Ai-Time-Machine">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</td>
-
 <td width="50%">
 
 ### ⚡ Household Energy Advisor
 
-A smart web application designed to help users make better household energy decisions.
+A smart web application designed to help users understand and optimize household energy usage.
 
-**Tech:** Web Development • JavaScript • AI
+**Tech:** JavaScript • Web APIs • AI
 
 <a href="https://github.com/harshit9934/household-energy-advisor">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
-
-</tr>
-
-<tr>
 
 <td width="50%">
 
 ### 💻 CodeX Clone
 
-A coding-focused web project inspired by modern AI/developer experiences.
+A developer-focused AI/code assistant project inspired by modern AI coding platforms.
 
-**Tech:** JavaScript • Node.js • Web Development
+**Tech:** JavaScript • Node.js • APIs
 
 <a href="https://github.com/harshit9934/CodeX_clone">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍔 Zomato Clone
+
+A food-delivery UI project inspired by Zomato with a focus on responsive design.
+
+**Tech:** React • JavaScript • CSS
+
+<a href="https://github.com/harshit9934/Zamato-clone">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
 <td width="50%">
 
-### 🍔 Zamato Clone
+### 🌐 My Portfolio
 
-A food discovery/application UI project inspired by popular food platforms.
+Personal portfolio website showcasing projects, skills and developer experience.
 
-**Tech:** React • JavaScript • Web Development
+**Tech:** HTML • CSS • JavaScript
 
-<a href="https://github.com/harshit9934/Zamato-clone">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/harshit9934/MyPortfolio">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
-
 </tr>
 </table>
 
 ---
 
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
+</p>
+
+### ⚛️ Frontend
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
+</p>
+
+### 🧠 Backend & Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,postman,vscode,figma" />
+</p>
+
+---
+
 # 📊 GitHub Analytics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshit9934&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9934&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshit9934&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9934&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=harshit9934&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=harshit9934&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ---
 
-# 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit9934&theme=tokyo-night&hide_border=true&area=true&custom_title=Harshit%27s%20GitHub%20Contribution%20Graph" />
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=harshit9934&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
-
-</div>
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit9934&theme=github-compact&hide_border=true&area=true&radius=8" alt="GitHub Activity Graph" />
+  </a>
+</p>
 
 ---
 
-# 📊 GitHub Profile Summary
+## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit9934&theme=tokyonight" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshit9934&theme=tokyonight" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshit9934&theme=tokyonight" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshit9934&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
-# 📅 Commit Activity
+## 📌 More GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit9934&theme=github-compact&hide_border=true&area=true&custom_title=Commit%20Activity" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshit9934&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+</p>
 
 ---
 
-# 💻 My Development Philosophy
+## 💻 Coding Activity
 
-> **Build. Break. Learn. Improve. Repeat. 🚀**
-
-I believe the best way to become a better developer is to continuously build real-world projects, experiment with new technologies, solve problems, and learn from failures.
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build more production-ready applications
-* ⚛️ Become stronger with React & Next.js
-* 🟢 Master Node.js & backend architecture
-* 🤖 Build more AI-powered applications
-* ☁️ Improve cloud & deployment knowledge
-* 🧠 Improve DSA & problem-solving
-* 🤝 Contribute to open-source projects
-* 📈 Maintain consistent GitHub contributions
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit9934&theme=github-compact&custom_title=My%20Coding%20Activity&hide_border=true&area=true&radius=8" alt="Coding Activity" />
+</p>
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Connect With Me
 
-<div align="center">
+<p align="center">
 
 <a href="https://github.com/harshit9934">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://linkedin.com/in/harshit993">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="mailto:harsitmourya80@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+</p>
 
 ---
 
-<div align="center">
+## 🐍 My Contribution Snake
 
-### ⭐ Thanks for visiting my profile!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshit9934/harshit9934/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 
-**If you like my work, consider giving my repositories a ⭐**
+---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+## ✨ Developer Quote
 
-</div>
+<p align="center">
+  <i>"Code. Build. Break. Learn. Repeat. 🚀"</i>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
