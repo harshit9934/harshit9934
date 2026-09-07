@@ -1,257 +1,182 @@
 <h1 align="center">Hi 👋, I'm Harshit Maurya</h1>
+<h3 align="center">A passionate Fullstack Developer from India</h3>
 
-<h3 align="center">
-🚀 Full-Stack Developer | MERN Stack | AI Enthusiast | Open Source Learner
-</h3>
+<!-- Profile Views & Trophy -->
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=harshit9934&label=Profile%20views&color=0e75b6&style=flat" alt="harshit9934" />
+</p>
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=harshit9934&theme=onedark&row=1&column=6" alt="harshit9934" />
+    </a>
+</p>
 
-<p align="center">
-  <a href="https://github.com/harshit9934">
-    <img src="https://komarev.com/ghpvc/?username=harshit9934&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  </a>
-  <a href="https://github.com/harshit9934?tab=followers">
-    <img src="https://img.shields.io/github/followers/harshit9934?label=Followers&style=for-the-badge&color=0e75b6" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/harshit9934?tab=repositories">
-    <img src="https://img.shields.io/github/stars/harshit9934?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars" />
-  </a>
+<!-- About Me -->
+- 🔭 I’m currently working on [Airbnb Clone](https://finalairbnb-9.onrender.com)
+- 🌱 I’m currently learning **Next.js**
+- 👯 I’m looking to collaborate on [SmartPick AI Product Recommender](https://smartpickai.netlify.app/)
+- 💬 Ask me about **React, Node, Express**
+- 📫 How to reach me: **harsitmourya80@gmail.com**
+- ⚡ Fun fact: **I am a content creator**
+
+<!-- Connect -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/harshit993" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit993" height="30" width="40" />
+    </a>
+</p>
+
+<!-- Languages & Tools -->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
+    </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+    </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+    </a>
+    <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
+    </a>
+    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+    </a>
+    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+    </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+    </a>
+    <a href="https://pugjs.org" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+    </a>
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
+    </a>
+    <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+    </a>
+    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+    </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 📊 GitHub Analytics
 
-```javascript
-const harshit = {
-    name: "Harshit Maurya",
-    location: "India 🇮🇳",
-    role: "Full-Stack Developer",
-    currentFocus: "Building scalable web applications & AI-powered products",
-    learning: ["Next.js", "Advanced React", "AI/ML"],
-    stack: ["React", "Node.js", "Express", "MongoDB", "MySQL"],
-    interests: ["Web Development", "AI", "Open Source", "Problem Solving"],
-    funFact: "I am also a content creator 🎥"
-};
-```
+<p align="center">
+    <!-- Top Languages -->
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshit9934&show_icons=true&locale=en&layout=compact&theme=radical" alt="harshit9934" />
+    <!-- GitHub Stats -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshit9934&show_icons=true&locale=en&theme=radical&count_private=true" alt="harshit9934" />
+</p>
 
-* 🔭 Currently working on **Airbnb Clone**
-* 🌱 Currently learning **Next.js & advanced full-stack development**
-* 🤖 Exploring **AI-powered applications**
-* 👯 Looking to collaborate on **interesting web & AI projects**
-* 💬 Ask me about **React, Node.js, Express, MongoDB & JavaScript**
-* 🎯 Goal: **Build useful products and become a better software engineer**
-* ⚡ Fun fact: **I am a content creator**
+<br clear="both"/>
+
+<p align="center">
+    <!-- Contribution Streak -->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshit9934&theme=radical" alt="harshit9934" />
+</p>
+
+---
+
+## 📈 Contribution Graph (Past Year)
+
+<p align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=harshit9934&theme=react-dark&bg_color=1a1b27&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+## 🏆 Key Metrics
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshit9934&theme=radical" alt="Profile Details" />
+</p>
+
+<p align="center">
+    <!-- Repos and Stars (custom dynamic badges via shields.io) -->
+    <img src="https://img.shields.io/badge/Total_Repositories-16-blue?style=for-the-badge&logo=github" alt="Total Repos" />
+    <img src="https://img.shields.io/badge/Total_Stars-8-yellow?style=for-the-badge&logo=star" alt="Total Stars" />
+    <img src="https://img.shields.io/badge/Commits_(2025)-2k+-brightgreen?style=for-the-badge&logo=git" alt="Commits" />
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🏠 Airbnb Clone
-
-A full-stack Airbnb-inspired rental platform built with Node.js, Express, MongoDB and EJS.
-
-**Tech:** Node.js • Express • MongoDB • EJS
-
-<a href="https://github.com/harshit9934/FinalAirbnb">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🤖 SmartPick AI
-
-AI-powered product recommendation project focused on helping users discover suitable products.
-
-**Tech:** React • AI • JavaScript
-
-<a href="https://github.com/harshit9934/Smartpick_AI_ProductRrcommend">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### ⚡ Household Energy Advisor
-
-A smart web application designed to help users understand and optimize household energy usage.
-
-**Tech:** JavaScript • Web APIs • AI
-
-<a href="https://github.com/harshit9934/household-energy-advisor">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 💻 CodeX Clone
-
-A developer-focused AI/code assistant project inspired by modern AI coding platforms.
-
-**Tech:** JavaScript • Node.js • APIs
-
-<a href="https://github.com/harshit9934/CodeX_clone">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🍔 Zomato Clone
-
-A food-delivery UI project inspired by Zomato with a focus on responsive design.
-
-**Tech:** React • JavaScript • CSS
-
-<a href="https://github.com/harshit9934/Zamato-clone">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌐 My Portfolio
-
-Personal portfolio website showcasing projects, skills and developer experience.
-
-**Tech:** HTML • CSS • JavaScript
-
-<a href="https://github.com/harshit9934/MyPortfolio">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-</tr>
-</table>
+| Project | Description | Tech Stack | Live Demo |
+|---------|-------------|------------|-----------|
+| **Airbnb Clone** | Full-stack property booking platform | React, Node, MongoDB | [Live](https://finalairbnb-9.onrender.com) |
+| **SmartPick AI** | AI-powered product recommendation engine | Next.js, Python, Flask | [Live](https://smartpickai.netlify.app/) |
+| *(Add your own project)* | *Description* | *Stack* | *Link* |
 
 ---
 
-## 🛠️ Tech Stack
+## 📅 Latest Activity
 
-### 💻 Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
-</p>
-
-### ⚛️ Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
-</p>
-
-### 🧠 Backend & Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
-</p>
-
-### ☁️ Tools & Platforms
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,postman,vscode,figma" />
-</p>
+<!--START_SECTION:activity-->
+<!-- This section can be auto-updated with a GitHub Action -->
+<!-- Check out https://github.com/jamesgeorge007/github-activity-readme -->
+<!--END_SECTION:activity-->
 
 ---
 
-# 📊 GitHub Analytics
+## 💡 Fun Facts About Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshit9934&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshit9934&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-</p>
-
----
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=harshit9934&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+- 🎥 I create tech content on social media.
+- ☕ Coffee is my coding fuel.
+- 🌍 I love exploring new technologies and contributing to open source.
 
 ---
 
-## 📈 GitHub Contribution Activity
+> *“Code is like poetry—it should be clean, elegant, and meaningful.”*
 
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit9934&theme=github-compact&hide_border=true&area=true&radius=8" alt="GitHub Activity Graph" />
-  </a>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshit9934&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📌 More GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshit9934&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-</p>
-
----
-
-## 💻 Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshit9934&theme=github-compact&custom_title=My%20Coding%20Activity&hide_border=true&area=true&radius=8" alt="Coding Activity" />
-</p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/harshit9934">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://linkedin.com/in/harshit993">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:harsitmourya80@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 🐍 My Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshit9934/harshit9934/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-## ✨ Developer Quote
-
-<p align="center">
-  <i>"Code. Build. Break. Learn. Repeat. 🚀"</i>
-</p>
-
-<p align="center">
-  <b>Thanks for visiting my profile! ⭐</b>
-</p>
+⭐️ From [Harshit Maurya](https://github.com/harshit9934)
