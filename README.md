@@ -26,51 +26,37 @@
 
 ## 🧑‍💻 About Me
 
-```javascript
-const harshit = {
-    name: "Harshit Maurya",
-    location: "India 🇮🇳",
-    role: "Full-Stack Developer",
-    education: "B.Tech CSE (AI/ML)",
-    
-    currentFocus: [
-        "Full-Stack Development",
-        "React.js",
-        "Node.js",
-        "Next.js",
-        "AI-powered applications"
-    ],
+I'm **Harshit Maurya**, a passionate **Full-Stack Developer** from India 🇮🇳 who enjoys building real-world web applications and exploring AI-powered solutions.
 
-    learning: [
-        "Next.js",
-        "Advanced React",
-        "Backend Architecture",
-        "AI/ML Integration"
-    ],
+* 💻 **Full-Stack Developer** focused on modern web technologies
+* ⚛️ Working with **React.js, Node.js, Express.js & MongoDB**
+* 🚀 Currently learning **Next.js** and improving my backend architecture skills
+* 🤖 Interested in **AI-powered applications and intelligent products**
+* 🛠️ Love building **real-world projects** instead of just following tutorials
+* 🌱 Continuously learning new technologies and improving my development skills
+* 🤝 Open to collaborating on interesting **Web Development & AI projects**
+* 🎯 Goal: Build scalable, useful and production-ready applications
 
-    askMeAbout: [
-        "React",
-        "Node.js",
-        "Express.js",
-        "MongoDB",
-        "JavaScript",
-        "Full-Stack Development"
-    ],
+### 💡 Tech I Work With
 
-    funFact: "I love building real-world projects 🚀"
-};
-```
+**Frontend:** React.js • Next.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
+
+**Backend:** Node.js • Express.js • REST APIs
+
+**Databases:** MongoDB • MySQL • PostgreSQL
+
+**Tools:** Git • GitHub • Docker • Postman • Figma
 
 ---
 
 ## 🚀 What I'm Currently Doing
 
 * 🔭 Building and improving **Full-Stack Web Applications**
-* 🌱 Currently learning **Next.js & modern web architecture**
+* 🌱 Currently learning **Next.js**
 * 🤖 Exploring **AI-powered applications**
-* 💡 Working on real-world projects using **MERN / JavaScript**
-* 🤝 Open to collaboration on interesting web & AI projects
-* 🎯 Continuously improving my problem-solving and development skills
+* 💡 Building real-world projects using the **MERN Stack**
+* 🤝 Open to collaboration on interesting Web & AI projects
+* 🎯 Improving my problem-solving and development skills
 
 ---
 
@@ -79,25 +65,25 @@ const harshit = {
 ### 💻 Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,html,css" />
 </p>
 
 ### ⚛️ Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,bootstrap,tailwind" />
 </p>
 
 ### 🧠 Backend & Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql" />
 </p>
 
 ### ☁️ Tools & Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,aws,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,aws,vscode" />
 </p>
 
 ---
@@ -116,11 +102,11 @@ A full-stack Airbnb-inspired accommodation platform built with Node.js, Express,
 **Tech:** Node.js • Express • MongoDB • EJS
 
 <a href="https://github.com/harshit9934/FinalAirbnb">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://finalairbnb-8.onrender.com/">
-<img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
 </a>
 
 </td>
@@ -134,11 +120,11 @@ AI-powered product recommendation project designed to help users discover suitab
 **Tech:** React • JavaScript • AI
 
 <a href="https://github.com/harshit9934/Smartpick_AI_ProductRrcommend">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://smartpickai.netlify.app/">
-<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=netlify"/>
 </a>
 
 </td>
@@ -149,14 +135,14 @@ AI-powered product recommendation project designed to help users discover suitab
 
 <td width="50%">
 
-### ⚡ AI Time Machine
+### 🤖 AI Time Machine
 
 An AI-focused project exploring intelligent application experiences.
 
 **Tech:** JavaScript • AI • Web Development
 
 <a href="https://github.com/harshit9934/Ai-Time-Machine">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -170,7 +156,7 @@ A smart web application designed to help users make better household energy deci
 **Tech:** Web Development • JavaScript • AI
 
 <a href="https://github.com/harshit9934/household-energy-advisor">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -188,7 +174,7 @@ A coding-focused web project inspired by modern AI/developer experiences.
 **Tech:** JavaScript • Node.js • Web Development
 
 <a href="https://github.com/harshit9934/CodeX_clone">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -202,7 +188,7 @@ A food discovery/application UI project inspired by popular food platforms.
 **Tech:** React • JavaScript • Web Development
 
 <a href="https://github.com/harshit9934/Zamato-clone">
-<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </td>
@@ -272,7 +258,7 @@ A food discovery/application UI project inspired by popular food platforms.
 
 ---
 
-# 📅 Commit & Contribution Graph
+# 📅 Commit Activity
 
 <div align="center">
 
@@ -308,15 +294,15 @@ I believe the best way to become a better developer is to continuously build rea
 <div align="center">
 
 <a href="https://github.com/harshit9934">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/harshit993">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:harsitmourya80@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
